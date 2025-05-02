@@ -1,4 +1,8 @@
-## Hi there 👋
+## Yelim Kim 👋
+안녕하세요, IOS 개발을 공부하는 김예림입니다.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dorii0513)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Dorii0513/Dorii0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
